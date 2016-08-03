@@ -4,9 +4,9 @@
 
 ## Team
 
-  - __Product Owner__: Kimerie Green
-  - __Scrum Master__: Richard Hong 
-  - __Development Team Members__: Andy Nixon, Yeiber Cano
+  - __Product Owner__: Dion Fulwood
+  - __Scrum Master__: AJ Farley
+  - __Development Team Members__: Aralya Phinith
 
 ## Table of Contents
 
